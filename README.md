@@ -7,7 +7,6 @@ www.patika.dev
 import java.util.Scanner;
 
 public class SınıfıGecmeDurumu {
-	
 public static void main(String[] args) {
 
 int mat, fizik, turkce, kimya, muzik, dersSayisi=0 , toplam=0;
