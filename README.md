@@ -54,4 +54,5 @@ double ortalama;
     }
     System.out.println("Ders Sayısı: " + dersSayisi + " Ortalama : " + ortalama);
 }
+
 }
